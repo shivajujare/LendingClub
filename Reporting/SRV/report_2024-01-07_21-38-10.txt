@@ -1,0 +1,13 @@
+Job executed by user - itv004483
+Job Started at : 2024-01-07_21:38:10
+
+App Name - SRV_Main
+Application ID - application_1692342312988_105859
+User - <bound method SparkContext.sparkUser of <SparkContext master=yarn appName=SRV_Main>>
+
+ingested customers file with 2260701 records in SRV
+ingested loans file with 2260701 records in SRV
+ingested loan_repayments file with 2260701 records in SRV
+ingested loan_defaulters file with 2260253 records in SRV
+
+Job end time 2024-01-07_21:41:32

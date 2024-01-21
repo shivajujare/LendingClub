@@ -1,0 +1,13 @@
+Job executed by user - itv004483
+Job Started at : 2024-01-10_12:27:00
+
+App Name - BV_Main
+Application ID - application_1692342312988_107998
+
+ingested customers file with 2260634 records in BV
+ingested loans file with 2260667 records in BV
+ingested loan_repayments file with 2259503 records in BV
+ingested loan_defaulters_delinq file with 1106157 records in BV
+ingested loan_defaulters_rec file with 1070068 records in BV
+
+Job end time 2024-01-10_12:32:29

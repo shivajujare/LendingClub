@@ -1,0 +1,6 @@
+Job Started at : 2024-01-06_02:14:19
+
+ingested customers file with 2260701 records in SRV
+ingested customers file with 2260701 records in SRV
+
+Job end time 2024-01-06_02:16:35

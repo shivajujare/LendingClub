@@ -1,0 +1,8 @@
+Job executed by user - {user_name}
+Job Started at : 2024-01-06_02:34:14
+
+ingested customers file with 2260701 records in SRV
+ingested loans file with 2260701 records in SRV
+ingested loan_repayments file with 2260701 records in SRV
+
+Job end time 2024-01-06_02:36:33
